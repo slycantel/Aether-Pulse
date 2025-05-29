@@ -1,0 +1,15 @@
+{
+  "name": "aether-pulse",
+  "version": "1.0.0",
+  "description": "A rhythm-based strategy game synchronizing aether pulses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
